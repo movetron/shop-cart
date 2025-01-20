@@ -18,7 +18,7 @@
     const products = [ {
         id: 1,
         title: "wine",
-        image: "../img/1.png"
+        image: "img/1.png"
     }, {
         id: 2,
         title: "milk",
