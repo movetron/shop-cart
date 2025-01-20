@@ -22,43 +22,43 @@
     }, {
         id: 2,
         title: "milk",
-        image: "../img/2.png"
+        image: "img/2.png"
     }, {
         id: 3,
         title: "jam",
-        image: "../img/3.png"
+        image: "img/3.png"
     }, {
         id: 4,
         title: "cheese",
-        image: "../img/4.png"
+        image: "img/4.png"
     }, {
         id: 5,
         title: "meat",
-        image: "../img/5.png"
+        image: "img/5.png"
     }, {
         id: 6,
         title: "thigh",
-        image: "../img/6.png"
+        image: "img/6.png"
     }, {
         id: 7,
         title: "chips",
-        image: "../img/7.png"
+        image: "img/7.png"
     }, {
         id: 8,
         title: "pineapple",
-        image: "../img/8.png"
+        image: "img/8.png"
     }, {
         id: 9,
         title: "banana",
-        image: "../img/9.png"
+        image: "img/9.png"
     }, {
         id: 10,
         title: "apple",
-        image: "../img/10.png"
+        image: "img/10.png"
     }, {
         id: 11,
         title: "salad",
-        image: "../img/11.png"
+        image: "img/11.png"
     } ];
     let dragItem = null;
     let getX = 0;
